@@ -1,0 +1,10 @@
+{
+  "name": "extreme",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "git-config": "git config user.name shu-wan9 && git config user.email 18762750392@163.com && git config --global user.name shu-wan9 && git config --global user.email 18762750392@163.com"
+  },
+  "author": "xiaomeiwu <xiaomeiwu@outlook.com>",
+  "license": "MIT"
+}
